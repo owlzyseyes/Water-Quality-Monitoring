@@ -10,7 +10,6 @@ We will be using two satellites in this project: **Sentinel-2** and **MODIS Aqua
 
 - **Normalized Difference Chlorophyll Index (NDCI)**: Used to estimate the concentration of chlorophyll in water bodies.
 - **Normalized Difference Turbidity Index (NDTI)**: Measures the cloudiness or haziness of water caused by large numbers of individual particles.
-- **pH**: Measures the acidity or alkalinity of water, important for aquatic organisms.
 - **Chlorophyll-a Index**: Used to estimate the concentration of chlorophyll-a in water bodies.
 - **Suspended Sediment Concentration (SSC)**: Estimates the concentration of suspended sediments in water bodies.
 
