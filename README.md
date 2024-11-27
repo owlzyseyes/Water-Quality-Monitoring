@@ -1,5 +1,5 @@
 # Water-Quality-Monitoring
-This project automates the monitoring of aquatic ecosystems with Earth Observation to assess water quality. Using satellite imagery, it analyzes parameters like chlorophyll, turbidity, and suspended sediments, enabling efficient, real-time insights for ecosystem health management and pollution control.
+This project automates the monitoring of Kenya's side of Lake Victoria aquatic ecosystem with Earth Observation to assess water quality. Using satellite imagery, parameters like chlorophyll, turbidity, and suspended sediments are analyzed, enabling efficient, real-time insights for ecosystem health management and pollution control.
 
 ![lake_victoria_ke](image.png)
 
