@@ -1,3 +1,4 @@
-geemap[workshop]"
+"geemap[workshop]"
 setuptools
 seaborn
+statsmodels
