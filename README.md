@@ -1,6 +1,8 @@
 # Water-Quality-Monitoring
 This project automates the monitoring of aquatic ecosystems with Earth Observation to assess water quality. Using satellite imagery, it analyzes parameters like chlorophyll, turbidity, and suspended sediments, enabling efficient, real-time insights for ecosystem health management and pollution control.
 
+![lake_victoria_ke](image.png)
+
 # Data Sources
 The satellite data used in this project: **MODIS Aqua**
 - MODIS offers Higher temporal resolution images(2 revisit times per day) at the cost of a coarser spatial resolution (500m)
