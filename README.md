@@ -14,4 +14,6 @@ The satellite data used in this project: **MODIS Aqua**
 - **Chlorophyll-a Index**: Used to estimate the absolute concentration of chlorophyll-a in water bodies.
 - **Suspended Sediment Concentration (SSC)**: Estimates the concentration of suspended sediments in water bodies.
 
+NOTE: Run ```pip install -U "geemap[workshop]"``` after installing the requirements from the txt file.
+
 
