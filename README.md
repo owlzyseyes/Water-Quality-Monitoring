@@ -16,4 +16,6 @@ The satellite data used in this project: **MODIS Aqua**
 
 NOTE: Run ```pip install -U "geemap[workshop]"``` after installing the requirements from the txt file.
 
+The Dashboard app for this project: https://deepnote.com/app/owls-d007/Water-Quality-Monitoring-1016b0e9-5958-4dba-9237-19323a660a0c?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=data-app&utm_content=1016b0e9-5958-4dba-9237-19323a660a0c
+
 
